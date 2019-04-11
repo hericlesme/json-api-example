@@ -1,16 +1,26 @@
 {
-  "posts":[
+  "assets": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": "1",
+      "name": "nude",
+      "type": "screenshot"
+    },
+    {
+      "name": "musica",
+      "type": "audio",
+      "id": "ko5Uogc"
     }
   ],
-  "comments" : [
+  "history": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "id": "1",
+      "name": "photo",
+      "type": "screenshot"
+    },
+    {
+      "id": "2",
+      "name": "record",
+      "type": "audio"
     }
   ]
 }
